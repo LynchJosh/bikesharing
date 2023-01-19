@@ -5,7 +5,7 @@
 
 The purpose of this project was to use data from Citi bike to gather insights into their user base to determine if the bike rental service could be made in another city. Using the provided data I was able to convert time-duration using the to_datetime() method to convert the times to easier to read data. After converting the time I made it  a CSV file. I used Tableau to make visualizers that could be given to investors to give them an idea of the project. 
 
-
+[link to dashboard](https://public.tableau.com/shared/RWWRYJ4D2?:display_count=n&:origin=viz_share_link)
 
 
 ### Of the total checkout times of 146,752 users. 108,087 were males
